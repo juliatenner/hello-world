@@ -1,2 +1,8 @@
 # hello-world
-My first repository on GitHub
+My first repository on GitHub. 
+
+Created during my onboarding week at GitHub.
+
+I was very happy when this appeared:
+
+> Congratulations! You've successfully created your first repository, and initialized it with a README file
