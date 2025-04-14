@@ -1,3 +1,5 @@
+![Mein Banner](assets/banner.png)
+
 # hello-world
 My first repository on GitHub. 
 
