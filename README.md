@@ -1,4 +1,4 @@
-![Mein Banner](assets/banner.png)
+![Mein Banner](1584x396-Linkedin-banner.png)
 
 # hello-world
 My first repository on GitHub. 
